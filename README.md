@@ -1,3 +1,24 @@
+# 제목1
+
+## 제목2
+
+### 제목3
+
+#### 제목4
+
+##### 제목5
+
+###### 제목6
+
+# 가로줄 업.
+
+*** 
+
+---
+
+# 깃허브
+1. 원격 저장소 만들기po
+2. t
 # test-1 
 깃허브 사용법을 연습하고 있습니다. 
 
@@ -7,6 +28,21 @@
 
 마크다운 문법 활용해서 원하는 내용을 입력하세요. 
 
-*** 
-블로그작성
-***
+
+# 깃허브 3
+
+# 소스코드
+
+한줄 짜리 소스코드는 `funcion add(x, y) { return x + y; `처럼 사용합니다.
+
+<script>
+  let now = new Date();
+  let display = now.toLocaleTimeSTring();
+  document.write(`현재 시각은 ${display} 입니다.`);
+
+</script>
+```
+ 소스 입력 끝!
+
+# 링크
+<http://www.naver.com>
