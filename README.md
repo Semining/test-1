@@ -34,7 +34,7 @@
 # 소스코드
 
 한줄 짜리 소스코드는 `funcion add(x, y) { return x + y; `처럼 사용합니다.
-
+```
 <script>
   let now = new Date();
   let display = now.toLocaleTimeSTring();
@@ -46,3 +46,7 @@
 
 # 링크
 <http://www.naver.com>
+
+[네이버](http://www.naver.com)
+
+[네이버](http://www.naver.com, "네이버 홈페이지로 이동합니다.")
